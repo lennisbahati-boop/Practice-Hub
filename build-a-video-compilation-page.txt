@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Video Compilation Page</h1>
+        <p>This is a video compilation page so pls enjoy it</p>
+        <section>
+            <h2>This is my second title</h2>
+
+            <p>This is my second paragraph</p>
+
+           
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BLhMPIv8sSY?si=btwqQv-LeLQ_HiHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>    
+        </section>
+
+        <section>
+            <h2>This is my third title</h2>
+            <p>this is my third paragraph</P>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BLhMPIv8sSY?si=btwqQv-LeLQ_HiHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2>This is my fourth title</h2>
+            <p>This is my fourth paragraph</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BLhMPIv8sSY?si=btwqQv-LeLQ_HiHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+

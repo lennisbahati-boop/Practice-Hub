@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="This is a travel agency page for helping travellers"/>
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Travel destinations</h1>
+    <p>Here at our tevel agency we like to put our clients first by always ensuring that they receive the best service.We offer major discounts to countries with visa free conditions and we also travel across the entire world except for israel (you now why).we offer group travels and private tours.</p>
+    <h2>Packages</h2>
+    <p>We have two packages Group Travels and Private Tours.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" Target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Rome colisium"/></a> 
+      <figcaption>This is from one of our tourists in italy in Rome</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Beautifull mountains"/></a> 
+      <figcaption>Some Beautiful Mountains</figcaption> 
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg"alt="beatiful ocean bed"/></a>
+      <figcaption>Beautiful ocean bed</figcaption>
+    </figure>
+  </body>
+</html>
+
+** end of index.html **
+
