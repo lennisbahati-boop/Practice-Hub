@@ -1,0 +1,89 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Lennis' Survey form</header>
+      <p id="description">Thank you for taking your time to give me your opinion</p>
+    </header>
+    <main>
+      <form id="survey-form">
+
+        <label for="name" id="name-label">Name</label>
+        <input
+         id="name"
+         name="name"
+         type="text"
+         placeholder="Enter your name"
+         size="20"
+         required
+         />
+
+         <label for="email" id="email-label">Email</label>
+         <input
+         id="email"
+         name="email"
+         placeholder="Enter email"
+         type="email"
+         size="20"
+         required
+         />
+
+         <label for="numbe"id="number-label">Age</label>
+         <input
+         id="number"
+         type="number"
+         name="age"
+         min="18"
+         max="90"
+         placeholder="Age"
+         />
+         
+           <p>What is your current position?</p>
+         <label for="dropdown">Current Position</label>
+         <select id="dropdown">
+           <option value="Student">Student</option>
+           <option value="Working">Working</option>
+         </select>
+         </div>
+
+         <div>
+           <p>Would you recomend this site?</p>
+           <label for="yes option">Yes i would</label>
+           <input type="radio" name="recommend" id="yes-option" value="yes">
+           <label for="no-option">Maybe</label>
+           <input value="no" type="radio" name="recommend" id="no-option">
+         
+
+         
+           <p>What would you like me to improve?(check)</p>
+           <label for="colour">Colour</label>
+           <input 
+           id="colour"
+           name="colour"
+           type="checkbox"
+           value="value"
+           />
+           <label for="interactivity">Interactivity</label>
+           <input
+            type="checkbox"
+            id="interactivity"
+            name="interactivity"
+            value="value"
+            />
+            <p>Any further comments</p>
+            <textarea cols="30" row="10" name="comments" id="comments"placeholder="Enter comments"></textarea>
+            <button type="submit" id="submit">Submit</button>
+         
+      </form>
+    </main>
+  </body>
+</html>
+
+** end of index.html **
+
